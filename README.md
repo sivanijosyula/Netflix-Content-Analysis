@@ -1,9 +1,4 @@
-The DataCleaning.ipynb file generates the cleaned_data.csv file.
-This file is used as input in Netflix_Visualizations.py
-
-Install streamlit using the command - 
-
-```pip install streamlit```
+Install streamlit using the command - ```pip install streamlit```
 
 Documentation for reference:
 
@@ -12,13 +7,11 @@ https://streamlit.io/
 https://docs.streamlit.io/
 
 
-To execute run the command  - 
+To execute run the command - ```streamlit run Netflix_Visualizations.py```
 
-```streamlit run Netflix_Visualizations.py```
+The DataCleaning.ipynb file generates the cleaned_data.csv file.
 
-
-
-
+This file is used as input in Netflix_Visualizations.py
 
 <img width="1440" alt="image" src="https://github.com/sivanijosyula/Netflix-Content-Analysis/assets/119761687/0bb6c81f-f847-4010-888b-c17eb024176d">
 
